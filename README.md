@@ -30,7 +30,9 @@ Exercicio Aula 08 - Gestão e Time
         
         - TASK#3:
 
-            - Utilizar AWS amplify
-
+            - Utilizar AWS amplify<br>
+            Points: 5<br>
+            Priority: 150
+    
 
 
