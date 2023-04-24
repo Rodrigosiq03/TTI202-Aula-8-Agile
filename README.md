@@ -17,4 +17,20 @@ Exercicio Aula 08 - Gestão e Time
     
     - **TAREFAS TÉCNICAS**
         -
+        - TASK#1:
+            
+            - Prototipar o design no Figma.<br> 
+            Points: 13<br>
+            Priority: 300
+        - TASK#2:
+
+            - Estruturar o clean arch do login<br>
+            Points: 5<br>
+            Priority: 570
         
+        - TASK#3:
+
+            - Utilizar AWS amplify
+
+
+
